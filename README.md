@@ -15,8 +15,8 @@ _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 _There also are 3 or 4 project about DL_ Neural Networks(CNN DNN) and Laser Ultrasonic(LU) Synthetic Aperture Focusing Technology(SAFT) and Traditional（non-DL） Image Processing. &#x20;
 
 1. _LeNet design based on Zynq_
-2. _T-SAFT algorithm accelerate based SAFT-COSH method on PYNQ_
-3. _ect.._
+2. _T-SAFT algorithm accelerate via SAFT-COSH method based on PYNQ_
+3. _etc.._
 
 ### 1.2. Labs List Details
 
