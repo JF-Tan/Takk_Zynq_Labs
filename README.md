@@ -37,6 +37,8 @@ keep updating . You guys just let me know what content you are insterested in.
 
 Email: taneey0519@gmail.com
 
+All Labs' code will be there  [https://github.com/Takk-Tanee/Takk\_Zynq\_Labs](https://github.com/Takk-Tanee/Takk\_Zynq\_Labs)
+
 
 
 
