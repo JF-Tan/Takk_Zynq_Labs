@@ -1,5 +1,5 @@
 ---
-description: 基于Zynq架构的多个实验的开发文档与学习步骤（长期持续更新）
+description: 基于Zynq架构的多个实验的开发文档与学习步骤（长期持续更新)——Tanee
 ---
 
 # Takk\_Zynq\_Labs中文
@@ -52,7 +52,57 @@ _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 * Lab21\_Zynq上LeNet进行车辆识别的示例与方案介绍
 * Lab22\_欢迎建议，持续更新....
 
-持续更新列表，正式视频预计1月10日在bilibili平台上开始更新。所有实验涉及的源码将在Github开源。
+
+
+#### 1.2.2  Vivado/Vitis HLS的IP开发
+
+* Lab01\_Vitis HLS安装配置与简介
+* Lab02\_UG902总体介绍
+* Lab03\_UG902分析一
+* Lab04\_UG902分析一
+* Lab05\_UG902分析一
+* Lab06\_UG902分析一
+* Lab07\_UG871实战
+* Lab08\_UG1233分析
+* Lab09\_HLS常用接口约束介绍与实战分析
+* Lab10\_HLS常用优化约束介绍与实战分析
+* Lab11\_利用VitisHLS编写第一个图像处理IP
+* Lab12\_使用 xfopenncv 在 VitisHLS编写 灰度与sobel IP
+* Lab13\_编写自定义的的vitisHLS视频处理库
+* Lab14\_VitisHLS 与 HDL 开发对比分析
+* Lab15\_VitisHLS实现神经网络的方案
+* Lab16\_VitisHLS简单CNNs实现
+* Lab16\_VitisHLS实现强化学习的方案
+* Lab17\_欢迎建议，持续更新....
+
+
+
+#### 1.2.3 Zynq嵌入式Linux环境开发
+
+* Lab01\_在Zynq移植Linux内核
+* Lab02\_内核模块以及驱动编写
+* Lab03\_在Zynq linux系统中PS侧调用PL处理运算
+* Lab04\_在Zynq linux系统中实现图像采集与显示
+* Lab05\__PetaLinux介绍与开发流程_
+* Lab06\_欢迎建议，持续更新....
+
+
+
+#### 1.2.4 PYNQ开发
+
+* Lab01\_在Zynq上部署PYNQ框架
+* Lab02\_Overlay的开发与简述
+* Lab03\_Pynq开发流程
+* Lab04\_Pynq社区的重要性与社区案例分析
+* Lab05\__Pynq图像处理开发流程以灰度转化为例_
+* Lab06\_Pynq与vitisHLS的协同开发
+* Lab07\_Pynq与Verilog手写自定义卷积IP实例
+* Lab08\_Pynq实现神经网络的方案
+* Lab09\_Pynq部署uNet方案
+* Lab10\_Pynq实现SAFT-COSH算法的方案
+* Lab11\_欢迎建议，持续更新....
+
+持续更新列表，正式视频预计1月10日在bilibili平台上开始更新。有可能存在直播录制视频的可能。所有实验涉及的源码将在Github开源。
 
 Email: taneey0519@gmail.com
 
