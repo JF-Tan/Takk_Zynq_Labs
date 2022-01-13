@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER IO_Controller
+	OPTION supported_peripherals = (IO_Controller);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = IO_Controller;
+END DRIVER
