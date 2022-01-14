@@ -35,15 +35,15 @@ _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 #### 1.2.1  无操作系统的Zynq裸机开发
 
-* Lab01\_Zynq中的PS部分介绍与串口打印
-* Lab02\_Zynq中的PS与PL交互
-* Lab03\_Zynq上的VGA驱动与Block Design思想
-* Lab04\_Zynq上通过PS部分控制PL VGA IP 进行图像显示
-* Lab05\_PL部分实现IIC驱动模块 （OV7725摄像头
-* Lab06\_PS部分实现IIC驱动模块（OV7725摄像头
-* Lab07\_PL实现OV7725摄像头数据采集模块
-* Lab08\__纯PL部分实现摄像头采集与显示_
-* Lab09\_PL与PS协同实现摄像头采集显示
+* Lab01\_Zynq介绍与PS端的开发环境
+* Lab02\_Zynq中PL与PS通过AXI-Lite协议交互
+* Lab03\_Zynq中常用的IO控制(PS\PL)
+* Lab04\_Zynq中VTC视频时序控制IP核实现VGA显示
+* Lab05\_Zynq中PS通过VDMA与VTC显示自定义图片到VGA显示器
+* Lab06\_IIC\SCCB协议与时序
+* Lab07\_【摄像头采集系统一】摄像头寄存器IIC配置模块
+* Lab08\_【摄像头采集系统二】摄像头数据采集模块
+* Lab09\_【摄像头采集系统三】系统Block Design以及上板测试
 * Lab10\_使用vivado HLS进行视频处理IP开发的基础分析与实践
 * Lab11\_Zynq上用Verilog编写简单AXI-Stream接口视频处理IP模块
 * Lab12\_PS部分的卷积模块
